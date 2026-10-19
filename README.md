@@ -1,5 +1,33 @@
-# Service-Branch-DB-PowerBI-Dashboard
-Power BI analytics dashboard for service branch database analysis and insights.
-## Dashboard Preview / معاينة لوحة التحكم
-![Service Branch Dashboard Preview](dashboard-preview.png)
+# 🏢 Service Branch Database Analytics Dashboard
+
+### 🖼️ معاينة لوحة التحكم / Dashboard Preview
 ![Service Branch Dashboard Preview](Screenshot%202026-10-17%20025933.png)
+
+---
+
+## 📌 عن المشروع (Project Overview)
+مشروع تحليل بيانات تفاعلي يهدف إلى تحليل وتتبع أداء الفروع والخدمات (Service Branch Database) لمتابعة الإيرادات، ساعات العمل المصروفة، وتحليل الأداء التشغيلي عبر المناطق المختلفة لمساعدة الإدارة على اتخاذ قرارات استراتيجية مبنية على البيانات.
+
+---
+
+## 📈 أهم مؤشرات الأداء والرؤى (Key Highlights & KPIs)
+
+* **مؤشرات الأداء الرئيسية (KPIs):**
+  * **إجمالي الإيرادات (Total Revenue):** 18M
+  * **إجمالي ساعات العمل (Total Hours):** 20K
+
+* **تحليل الإيرادات حسب الأقسام (Revenue by Department):**
+  * مقارنة الأداء المالي لكل قسم لتحديد الأكثر مساهمة في إجمالي الإيرادات.
+
+* **التوزيع الجغرافي وحجم الأعمال (Revenue & Activity by Region):**
+  * تحليل حصة كل منطقة جغرافية من الإيرادات الكلية وساعات تنفيذ الخدمات.
+
+* **التتبع الزمني للإيرادات (Revenue Trends):**
+  * الرسم البياني الزمني لرصد التغيرات والنمو في الإيرادات عبر الفترات المختلفة.
+
+---
+
+## 🛠️ الأدوات والتقنيات المستخدمة (Tech Stack)
+* **Power BI & Power Query:** لتنظيف وتشكيل البيانات وبناء النموذج المالي واللوحة التفاعلية[cite: 6, 12].
+* **DAX Functions:** لكتابة المقاييس الحسابية واستخراج مؤشرات الأداء الرئيسية بدقة[cite: 6, 12].
+* **Microsoft SQL Server:** لمعالجة واستعلام بيانات الفروع والخدمات قبل النمذجة[cite: 6, 12].
